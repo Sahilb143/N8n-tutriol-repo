@@ -3,12 +3,13 @@
   "private": true,
   "version": "1.0.0",
   "engines": {
-    "node": ">=18"
+    "node": "18.17.0"
   },
   "scripts": {
     "start": "n8n start"
   },
   "dependencies": {
-    "n8n": "^1.0.0"
+    "n8n": "1.26.0"
   }
 }
+
